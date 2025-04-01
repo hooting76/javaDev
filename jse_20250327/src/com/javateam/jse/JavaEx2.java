@@ -41,7 +41,6 @@ public class JavaEx2 { // 클래스 시작
 	// args : 변수(variable) => arguments(인자)의 약자
 
 	public static void main(String[] args) { // main 메소드 시작
-		// TODO Auto-generated method stub
 		System.out.println("자바");
 	} // main 메소드 끝
 	// 코드 블럭(block: 한 메소드 / 클래스 / etc...) 
